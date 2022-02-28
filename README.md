@@ -16,7 +16,10 @@ Given
 |**Script/Notebook**|**Takes In**|**Does**|**Outputs**|
 |:------------------|:-----------|:-------|:----------|
 |[01_pullandsubsetdata](https://github.com/vquidore/final-project-qss20/blob/main/code/01_pullandsubsetdata.ipynb)|All four excel datasets found in the files directory|Reads .xlsx files into Pandas dataframes, ||
-### [Files]()
+### [Files](https://github.com/vquidore/final-project-qss20/tree/main/files)
+
+The files directory contains four datasets provided by START Services of New Hampshire. The data is 
+
 
 ### Outputs
 
