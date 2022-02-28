@@ -20,7 +20,7 @@ Given
 |[01_pullandsubsetdata](https://github.com/vquidore/final-project-qss20/blob/main/code/01_pullandsubsetdata.ipynb)|All four excel datasets found in the files directory|Reads .xlsx files into Pandas dataframes, ||
 ### [Files](https://github.com/vquidore/final-project-qss20/tree/main/files)
 
-The files directory contains four datasets on disabled patients provided by START Services of New Hampshire. 
+- The files directory contains four datasets on disabled patients provided by START Services of New Hampshire. 
 
 
 ### Outputs
