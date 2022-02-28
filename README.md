@@ -9,9 +9,9 @@
 
 ### Plan 
 
--Subset THE DEMOGRAPHICS dataset by: Gender (Male/Female) Race
+- Subset THE DEMOGRAPHICS dataset by: Gender (Male/Female) Race
 
--Merge the demographics data and the Start FEIS data by patient ID # -Clean data so only relevant columns are left (Demographic data + family input)
+- Merge the demographics data and the Start FEIS data by patient ID # -Clean data so only relevant columns are left (Demographic data + family input)
 
 - We plan firstly to look at the spectrum of responses comparing available services/client mental health (as the answers are on a scale) and turn this into numerical data in order to quantify the quality of each subset’s degree of care.
 
