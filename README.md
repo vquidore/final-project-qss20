@@ -1,5 +1,5 @@
 # Final Project QSS20 22W
-# Student Impact Practicum investigating the effects of race, gender, and the Covid-19 pandemic on the disabled community within START Services
+## Student Impact Practicum investigating the effects of race, gender, and the Covid-19 pandemic on the disabled community within START Services
 
 # AUTHORS: Josephine Kim, V Quidore, Raniyan Zaman, Kai Zhou
 
