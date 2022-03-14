@@ -3,7 +3,7 @@
 
 # AUTHORS: Josephine Kim, V Quidore, Raniyan Zaman, Kai Zhou
 
-#### Check out our comprehensive [final report](https://github.com/vquidore/final-project-qss20/blob/main/Final_Project___SIP_.pdf) concerning the backgroun, methodology, and results of this project and a discussion of future steps to be taken
+#### Check out our comprehensive [final report](https://github.com/vquidore/final-project-qss20/blob/main/Final_Project___SIP_.pdf) concerning the backgroun, methodology, and results of this project and a discussion of future steps to be taken!
 
 ## Usages
 
