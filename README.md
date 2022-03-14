@@ -23,4 +23,4 @@
 
 ### [Outputs](https://github.com/vquidore/final-project-qss20/tree/main/output)
 
-
+- Above is a link to our output directory!
